@@ -12,7 +12,7 @@ Shizuku 支持通过以下三种方式启动。
 
 [来源](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
 
-:::
+:::725ed7263b7df94d5c0793a8be7b2913ed9d5656
 
 ### 通过 root 启动
 
