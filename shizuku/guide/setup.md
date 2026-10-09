@@ -3,7 +3,11 @@
 [[toc]]
 
 ## Start Shizuku
-
+--- DEBUG INFO ---
+Device: MOTOROLA moto g05
+OS: Android 15 (API 35)
+ABI: arm64-v8a
+App: 5.3 [22]
 Shizuku supports startup in the following three ways.
 
 ::: tip If you are using GrapheneOS
